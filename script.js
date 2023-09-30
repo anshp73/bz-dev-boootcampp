@@ -1,0 +1,3 @@
+function showaler(){
+    alert("ALERT")
+}
